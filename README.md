@@ -7,7 +7,7 @@
 ## 🌐 배포 링크 (배포 예시)
 
 - **GitHub Pages**: https://techkwon.github.io/vibe-coding-guide/
-- **Netlify**: (배포 후 추가)
+- **Netlify**: https://jangheung-vibe-coding.netlify.app
 
 ## 📚 구성
 
